@@ -25,6 +25,7 @@ This channel consolidates information on studies and research in key areas of co
 <br/>
 <br/>
 
+<!--
 ### 📊 Statistics
 
 <img
@@ -42,6 +43,7 @@ This channel consolidates information on studies and research in key areas of co
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunatix-lab&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=7"
 />
+-->
 
 <!--
 **lunatix-lab/lunatix-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
